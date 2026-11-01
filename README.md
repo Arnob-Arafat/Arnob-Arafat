@@ -8,7 +8,7 @@ I'm particularly enthusiastic about **Artificial Intelligence and Machine Learni
 
 ### Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=github&logoColor=white)](arnob.arafat.750)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](arnob.arafat.750)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mishti__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnob-arafat/)
 
