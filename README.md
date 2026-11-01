@@ -2,9 +2,9 @@
 
 ### Software Engineering Student @ IUT | Aspiring Software Engineer
 
-I’m a Software Engineering undergraduate at the **Islamic University of Technology (IUT)** interested in software development, competitive programming, and building practical solutions.
+I’m a Software Engineering undergraduate at the **Islamic University of Technology (IUT)** passionate about software development, competitive programming, and building practical solutions.
 
-Currently exploring AI/ML, full-stack development, backend engineering, and algorithms.
+I'm particularly enthusiastic about **Artificial Intelligence and Machine Learning**, alongside full-stack development, backend engineering, and algorithmic problem solving. I enjoy exploring emerging technologies and understanding how they can be applied to solve real-world problems.
 
 ### Socials
 
